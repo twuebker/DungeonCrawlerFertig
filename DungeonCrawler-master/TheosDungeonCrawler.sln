@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheosDungeonCrawler", "Assembly-CSharp.csproj", "{5992E770-3E1D-AB7B-8350-B9CBA5500109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheosDungeonCrawler", "Assembly-CSharp-Editor.csproj", "{A0C9A3AB-D221-25D6-7DB9-910826A6E7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5992E770-3E1D-AB7B-8350-B9CBA5500109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5992E770-3E1D-AB7B-8350-B9CBA5500109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5992E770-3E1D-AB7B-8350-B9CBA5500109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5992E770-3E1D-AB7B-8350-B9CBA5500109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C9A3AB-D221-25D6-7DB9-910826A6E7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C9A3AB-D221-25D6-7DB9-910826A6E7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C9A3AB-D221-25D6-7DB9-910826A6E7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C9A3AB-D221-25D6-7DB9-910826A6E7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
